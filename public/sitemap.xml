@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/posts/welcome-to-the-new-tranquilpeak/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/who-is-using-tranquilpeak-hugo-theme/</loc>
+    <lastmod>2015-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/elements-showcase/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/cover-image-showcase/</loc>
+    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/test-post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/hidden-social-section-showcase/</loc>
+    <lastmod>2014-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/hidden-tag-section-showcase/</loc>
+    <lastmod>2014-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/hidden-pagination-showcase/</loc>
+    <lastmod>2014-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/video-integrations-showcase/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/chinese-test/</loc>
+    <lastmod>2013-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/image-gallery-showcase/</loc>
+    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/japanese-test/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/chinese/</loc>
+    <lastmod>2013-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/cover-image/</loc>
+    <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/dailymotion/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/disqus/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/features/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/google-analytics/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/gravatar/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/hexo-theme/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/html-elements/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/image-gallery/</loc>
+    <lastmod>2013-02-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/japanese/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/markdown/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/pagination/</loc>
+    <lastmod>2014-08-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/releases/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/responsive/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/showcase-appliqu%C3%A9e/</loc>
+    <lastmod>2015-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/social/</loc>
+    <lastmod>2014-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2013-10-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/tags/</loc>
+    <lastmod>2014-08-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/tranquilpeak/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/videos-integration/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/vimeo/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/youtube/</loc>
+    <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
