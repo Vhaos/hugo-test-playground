@@ -1,5 +1,5 @@
 title = "Hugo Test"
-baseURL = "https://example.com"
+baseURL = "https://vhaos.github.io/hugo-test-playground/"
 languageCode = "en-us"
 theme = "hugo-theme-m10c"
 paginate = 9
