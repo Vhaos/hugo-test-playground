@@ -1,7 +1,7 @@
 title = "Hugo Test"
 baseURL = "https://example.com"
 languageCode = "en-us"
-theme = "m10c"
+theme = "hugo-theme-m10c"
 paginate = 9
 themesDir = "./themes"
 
