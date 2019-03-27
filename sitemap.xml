@@ -3,228 +3,228 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/welcome-to-the-new-tranquilpeak/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/welcome-to-the-new-tranquilpeak/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/who-is-using-tranquilpeak-hugo-theme/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/who-is-using-tranquilpeak-hugo-theme/</loc>
     <lastmod>2015-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/elements-showcase/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/elements-showcase/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/cover-image-showcase/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/cover-image-showcase/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/test-post/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/test-post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hidden-social-section-showcase/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/hidden-social-section-showcase/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hidden-tag-section-showcase/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/hidden-tag-section-showcase/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hidden-pagination-showcase/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/hidden-pagination-showcase/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/video-integrations-showcase/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/video-integrations-showcase/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/chinese-test/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/chinese-test/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/image-gallery-showcase/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/image-gallery-showcase/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/japanese-test/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/japanese-test/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/chinese/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/chinese/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/cover-image/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/cover-image/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/dailymotion/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/dailymotion/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/disqus/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/disqus/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/features/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/categories/features/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/google-analytics/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/google-analytics/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/gravatar/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/gravatar/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hexo-theme/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/hexo-theme/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/html-elements/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/html-elements/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/image-gallery/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/image-gallery/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/japanese/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/japanese/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/markdown/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/pagination/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/pagination/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/posts/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/releases/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/categories/releases/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/responsive/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/responsive/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/showcase-appliqu%C3%A9e/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/categories/showcase-appliqu%C3%A9e/</loc>
     <lastmod>2015-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/social/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/social/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/tags/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/tags/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/tranquilpeak/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/categories/tranquilpeak/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/videos-integration/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/videos-integration/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/vimeo/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/vimeo/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/youtube/</loc>
+    <loc>https://vhaos.github.io/hugo-test-playground/tags/youtube/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
